@@ -11,4 +11,8 @@ public class Car {
     public String getProducer() {
         return producer;
     }
+
+    public void setProducer(String producer) {
+        this.producer = producer;
+    }
 }
